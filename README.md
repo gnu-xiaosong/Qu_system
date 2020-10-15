@@ -58,3 +58,4 @@ python程序位于python目录下
 
 ## -2020.10.15 修改python爬虫程序，添加新特性
 在版本1的基础上添加对多条数据的爬虫，改文件在python目录下的new_spider.py文件
+演示地址:http://songye-image-upyun.test.upcdn.net/photo/Pydroid%203.mp4
