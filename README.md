@@ -1,5 +1,5 @@
 # 题库资源管理系统
-===============
+=========================
 ## 前言
 
 一款开源免费的题库系统程序，依托于thinkphp开发，支持多用户
@@ -7,6 +7,13 @@
 * 开发者:小松科技
 * 官方:[官方地址](http://zy.xskj.store)
 * 时间:2020-09-09
+## 体验
+*首页:[首页](http://zy.xskj.store)
+*搜题页:[搜题](http://zy.xskj.store/public/index.php/search/search/searchindex.html)
+*资源搜集页:[资源搜集](http://zy.xskj.store/public/index.php/collect.html)
+*后台地址:[后台](http://zy.xskj.store/public/index.php/adminlogin.html)
+  账号:admin
+  密码:admin
 ## -2020.07.17，添加网页查询
 
 添加网页查询，查询结果全覆盖
