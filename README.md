@@ -8,10 +8,10 @@
 * 官方:[官方地址](http://zy.xskj.store)
 * 时间:2020-09-09
 ## 体验
-*首页:[首页](http://zy.xskj.store)
-*搜题页:[搜题](http://zy.xskj.store/public/index.php/search/search/searchindex.html)
-*资源搜集页:[资源搜集](http://zy.xskj.store/public/index.php/collect.html)
-*后台地址:[后台](http://zy.xskj.store/public/index.php/adminlogin.html)
+* 首页:[首页](http://zy.xskj.store)
+* 搜题页:[搜题](http://zy.xskj.store/public/index.php/search/search/searchindex.html)
+* 资源搜集页:[资源搜集](http://zy.xskj.store/public/index.php/collect.html)
+* 后台地址:[后台](http://zy.xskj.store/public/index.php/adminlogin.html)
   账号:admin
   密码:admin
 ## -2020.07.17，添加网页查询
