@@ -104,3 +104,5 @@ python程序位于python目录下
 ```
 python 文件名.py   
 ```
+* 运行截图:
+
