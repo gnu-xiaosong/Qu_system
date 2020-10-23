@@ -66,3 +66,37 @@ python程序位于python目录下
 ## -2020.10.15 修改python爬虫程序，添加新特性
 在版本1的基础上添加对多条数据的爬虫，改文件在python目录下的new_spider.py文件
 演示地址:http://songye-image-upyun.test.upcdn.net/photo/Pydroid%203.mp4
+## -2020.10.23  添加分页爬取脚本
+  脚本在python目录下分页爬取.py文件
+* 相关配置信息:
+```
+###########↓↓填写配置信息↓↓#######
+	#数据库配置
+	dict = {
+	"host" : 'localhost',       #数据库地址
+	"username" :'root',       #数据库用户名
+	"password" :'',               #数据库密码
+    "database" : 'question' #选择数据库名
+	}
+	#数据表及字段配置
+	table = {
+	"name" :'xs_other',
+	"column1" : 'title',       #varchar字段
+	"column2" :'picture_ink',          #varchar字段
+	"column3" :'ip',                    #int字段
+    "column4" : 'column4' ,       #text字段
+    "column5" : 'column5',        #varchar字段
+    "column6" : 'column6'        #varchar字段
+	}
+	#正则匹配规则配置
+	re_ruler1 = re.compile(r'<p>(\d.*?)</p>',re.S)
+	re_ruler2 = re.compile(r'<p(\d.*?)</p>',re.S)
+	re_ruler3 = re.compile(r'  ',re.S)
+	re_ruler4 = re.compile(r'  ',re.S)
+	re_ruler5 = re.compile(r'  ',re.S)
+	re_ruler6 = re.compile(r'  ',re.S)
+   #目标网站url
+	base_url = 'https://m.51job.com/company/joblist.php?jobarea=220200&funtype=&saltype=&workyear=&keyword=&pageno='
+	###########↑↑填写配置信息↑↑######
+	
+```
