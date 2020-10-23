@@ -105,4 +105,6 @@ python程序位于python目录下
 python 文件名.py   
 ```
 * 运行截图:
+## -2020.10.24 添加python爬虫写入excel文件中
+文件在pytjon目录下Excel.py文件
 
