@@ -142,7 +142,6 @@ def start(tulpe2):
 		#写入总的datalist列表数据
 		print(data)
 		datalist1.append(tuple(data))
-		print('这里')
 		global data_count 
 		data_count += 1   #爬取条数
 		print('爬取第%d条数据成功！' % data_count ) #提示
@@ -195,10 +194,8 @@ if __name__ == '__main__':
 		try:		
 			print('=======当前正爬取第%d页=======' % pages)
 			url = str(base_url) + str(pages)  #url重构
-			print(url)   #测试
 			tuple2 = {"url":url,"timeout":10}
 			#爬取开始
-			print('到这里')
 			datalist = start(tuple2)
 			if not datalist:
 				end()
