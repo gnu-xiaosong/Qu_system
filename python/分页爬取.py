@@ -145,10 +145,16 @@ def start(tulpe2):
 		print('这里')
 		global data_count 
 		data_count += 1   #爬取条数
-		print('爬取第%d成功！' % data_count ) #提示
+		print('爬取第%d条数据成功！' % data_count ) #提示
 	return datalist1
+	
+def end():
+	print()
+	print('*******************************')
+	print('总共添加%d条数据!' % data_count)
+	print('======爬虫任务完成!=======') 
 
-   
+
 if __name__ == '__main__':
 	pre()                     #程序进程图提示
 	data_count = 1   #爬取初始条数
@@ -194,6 +200,10 @@ if __name__ == '__main__':
 			#爬取开始
 			print('到这里')
 			datalist = start(tuple2)
+			if not datalist:
+				end()
+				 #爬取页面结束时
+				break
 			#写入数据库或excel
 			ret = mysql(dict,table,datalist)
 			if not ret:
@@ -206,11 +216,8 @@ if __name__ == '__main__':
 		except:
 			print('爬取数据异常')
 			time.sleep(2)
-		if pages  > 2:  #爬去页面数量控制
-			print()
-			print('*******************************')
-			print('总共添加%d条数据!' % data_count)
-			print('======爬虫任务完成!=======') 
+		if pages  > 200:  #爬去页面数量控制
+			end()
 			break
 	print('爬虫任务结束♥♥♥♥♥！')
 			
