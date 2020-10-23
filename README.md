@@ -107,4 +107,6 @@ python 文件名.py
 * 运行截图:
 ## -2020.10.24 添加python爬虫写入excel文件中
 文件在pytjon目录下Excel.py文件
+## -2020.10.24  添加python爬虫集成excel操作存储
+   脚本位于python目录下的分页爬虫(添加excel).py
 
