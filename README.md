@@ -111,4 +111,5 @@ python 文件名.py
    脚本位于python目录下的分页爬虫(添加excel).py
 ## -2020.10.24  更新完善excel存放目录
 该文件位于python目录下的excel_new_update.py
-
+## -2020.10.24  添加浏览器伪装请求
+文件位于python目录下的Excel_new_update伪装.py文件
