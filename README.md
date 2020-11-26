@@ -12,6 +12,8 @@
  |---|---|---|
  |python采集|题库资源采集|v1.2.0|
 |微信公众号|自动回复搜题模式|v1.2.0|
+## 使用方法
+将程序下载放入服务器中，访问域名积极即可
 ## 体验
 * 首页:[首页](http://zy.xskj.store)
 * 搜题页:[搜题](http://zy.xskj.store/public/index.php/search/search/searchindex.html)
