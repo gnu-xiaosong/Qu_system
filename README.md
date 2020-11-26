@@ -7,6 +7,9 @@
 * 开发者:小松科技
 * 官方:[官方地址](http://zy.xskj.store)
 * 时间:2020-09-09
+# 功能特性
+ |特性|应用场景|版本|
+   |自动化采集|题库资源采集|v1.2.0|
 ## 体验
 * 首页:[首页](http://zy.xskj.store)
 * 搜题页:[搜题](http://zy.xskj.store/public/index.php/search/search/searchindex.html)
