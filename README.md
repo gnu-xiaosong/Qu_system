@@ -13,7 +13,6 @@
  |python采集|题库资源采集|v1.2.0|
 |微信公众号|自动回复搜题模式|v1.2.0|
 ## 体验
-## 体验
 * 首页:[首页](http://zy.xskj.store)
 * 搜题页:[搜题](http://zy.xskj.store/public/index.php/search/search/searchindex.html)
 * 资源搜集页:[资源搜集](http://zy.xskj.store/public/index.php/collect.html)
