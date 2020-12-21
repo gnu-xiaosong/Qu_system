@@ -9,7 +9,8 @@
 * 时间:2020-09-09
 ## 下载
 * 方法一:[点我下载]()
-* 方法二:```
+* 方法二:
+```
 git clone https://github.com/gnu-xiaosong/Qu_system.git
 ```
 ## 功能特性
