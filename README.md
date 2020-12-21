@@ -8,7 +8,8 @@
 * 官方:[官方地址](http://zy.xskj.store)
 * 时间:2020-09-09
 ## 下载
-* 方法一:[点我下载]()
+* 方法一:[点我下载](https://fusong.lanzous.com/b01byaagd
+)密码:h5br
 * 方法二:
 ```
 git clone https://github.com/gnu-xiaosong/Qu_system.git
