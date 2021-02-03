@@ -1,4 +1,4 @@
-# 题库资源管理系统
+# 题库资源管理系统[全面更新！！]
 =========================
 ## 前言
 
@@ -9,7 +9,7 @@
 * 时间:2020-09-09
 ## 下载
 * 方法一:[点我下载](https://fusong.lanzous.com/b01byaagd
-)密码:h5br
+)密码:h5br(请下载最新的源码3.0以上版本)
 * 方法二:
 ```
 git clone https://github.com/gnu-xiaosong/Qu_system.git
@@ -128,3 +128,5 @@ python 文件名.py
 该文件位于python目录下的excel_new_update.py
 ### -2020.10.24  添加浏览器伪装请求
 文件位于python目录下的Excel_new_update伪装.py文件
+### -2021.02.04  前端重构，vue开发，界面简洁美观强大
+* 体验地址:http://zy.xskj.store(后续将完善管理后台功能，尽请期待)
