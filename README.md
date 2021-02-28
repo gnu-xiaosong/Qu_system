@@ -1,5 +1,5 @@
 # 题库资源管理系统[该项目已不再维护！！]
-请移步到source_system[点我](https://github.com/gnu-xiaosong/source_system/blob/main/README.md)
+请移步到替代项目source_system[点我](https://github.com/gnu-xiaosong/source_system/blob/main/README.md)
 =========================
 ## 前言
 
